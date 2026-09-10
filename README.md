@@ -1,4 +1,5 @@
-# \[Work In Progress\] AMWA IN-006: DMF Business User Stories\n
+# \[Work In Progress\] AMWA IN-006: DMF Business User Stories
+
 [![Lint Status](https://github.com/AMWA-TV/in-006/actions/workflows/lint.yml/badge.svg)](https://github.com/AMWA-TV/in-006/actions/workflows/lint.yml)
 [![Zensical Render Status](https://github.com/AMWA-TV/in-006/actions/workflows/docs.yml/badge.svg)](https://github.com/AMWA-TV/in-006/actions/workflows/docs.yml)
 [![License](https://img.shields.io/github/license/AMWA-TV/in-006)](https://github.com/AMWA-TV/in-006/blob/HEAD/LICENSE)

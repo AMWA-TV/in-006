@@ -1,6 +1,5 @@
 # DMF Business User Stories
 
-
 _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 
 
@@ -12,7 +11,7 @@ _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 ***Workgroup Leaders: Mike Strein and Naveed Aslam***  
 ***September 8th, 2026***
 
-**Executive Summary**
+# Executive Summary
 
 *The purpose of the JT-DMF Business track is to provide the development teams working on both MXL and the structure for Dynamic Media Facilities a perspective from the business community.*  
 
@@ -22,7 +21,7 @@ _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 
 *Finally, during our analysis, we developed two diagrams which we believe are helpful in understanding the User Stories. They may also prove useful in DMF business discussions.*
 
-**Common Terms and Definitions across all User Stories**
+# Common Terms and Definitions across all User Stories
 
 *Listed here are common terms along with their associated definitions which may be used in the expanded descriptions of all the User Stories.  If the terms are not shown in the stories below, they likely will come up in discussions within the business.*
 
@@ -36,7 +35,7 @@ _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 8. **Metrics:** exposed for both hosting resources as well as functional applications.  This also includes metering: an auditable ability to track utilization of resources to a granular level (including such items as power and cooling).   Exposing metrics may be a licensable feature  
 9. **Tiers:** typically listed as 1, 2 and 3, refer to levels of production value, with tier 1 being the highest level, requiring the most amount of production resources, and often including the need for redundancy (potentially complete replication) and resiliency (potentially multiple paths).  Tiers 2 and 3 often require decreasing amounts of resources, less sophisticated production values, and can typically accept a larger amount of risk in production.
 
-**Additional Considerations**
+# Additional Considerations
 
 *Listed here are terms along with their associated definitions which may not be mentioned in the User Stories but may help in the discussions of them.*
 
@@ -54,7 +53,7 @@ _(c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)_
 
 **Note**: *While AI is not specifically referenced in any of the User Stories, it is generally accepted that AI could be used in customization or selection in any of the User Stories*
 
-**Reference Diagrams**
+# Reference Diagrams
 
 ![page8image48667136][image1]
 
