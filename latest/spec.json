@@ -1,0 +1,26 @@
+{
+  "amwa_id": "IN-006",
+  "url": "https://specs.amwa.tv/in-006",
+  "name": "DMF Business User Stories",
+  "status": "Work In Progress",
+  "repo_name": "in-006",
+  "alt_repo_name": null,
+  "repo_url": "https://github.com/AMWA-TV/in-006",
+  "releases": null,
+  "default_branch": "main",
+  "show_in_index": false,
+  "intro": {
+    "what_does_it_do": [
+      "Captures eleven business-oriented user stories covering financial models, deployment options, production tiers, scaling, licensing, portability, and other concerns for Dynamic Media Facilities (DMFs).",
+      "Provides common terminology, reference diagrams, and examples such as rate cards to support business discussions about DMF adoption and operation."
+    ],
+    "why_does_it_matter": [
+      "DMF decisions involve more than technical capability: cost, risk, staffing, licensing, support, scalability, and the value of a production all affect the appropriate solution.",
+      "A shared set of business perspectives helps technical teams, vendors, producers, and executives compare options and make better-informed deployment decisions."
+    ],
+    "how_does_it_work": [
+      "Describes each user story using a role, desired function, business value, objective, and unique requirements.",
+      "Examines the financial and technical trade-offs between platforms, production tiers, resource models, and lifecycle options, including how solutions can scale, migrate, or be shut down."
+    ]
+  }
+}
